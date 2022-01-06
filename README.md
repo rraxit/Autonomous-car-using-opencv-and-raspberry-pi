@@ -41,7 +41,7 @@ The project aims to build a monocular vision using Raspberry Pi as a processing 
  
  ![Obstacle](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/obstacle.png)<br/>
  ![No Obstacle](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/No_obs.png)<br/>
- ![Terminal output](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/obs_ter.png)<br/>
+ ![Terminal output](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/obst_ter.png)<br/>
  
  II] Lane Tracking:<br/>
  Working Steps:<br/>
