@@ -43,9 +43,6 @@ The project aims to build a monocular vision using Raspberry Pi as a processing 
  ![No Obstacle](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/No_obs.png)<br/>
  ![Terminal output](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/obst_ter.png)<br/>
  
- 
- 
- 
  II] Lane Tracking:<br/>
  Working Steps:<br/>
  1.Extract the color range for the road.<br/>
@@ -71,20 +68,7 @@ The project aims to build a monocular vision using Raspberry Pi as a processing 
 ![Rigth Turn Detection](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/right.png)<br/>
 ![Go Straight](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/straight.png)<br/>
 
-
-III] Traffic light detection:<br/>
-Working Steps:<br/>
-1.Capture Frames from the pi camera.<br/>
-2.Define the specific region in each frame which will be considered for computation.<br/>
-3.In defined region using color & shape detection identify Red & Green traffic signal.<br/>
-4.If Red signal detected stop the car.<br/>
-5.If Green signal detected move the car.<br/>
-![Red Signal](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/red_light.png)<br/>
-![Green Signal](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/green_light.png)<br/>
-
-
-
-IV] Automated Parking:<br/>
+III] Automated Parking:<br/>
 Working Steps:<br/>
 1.Trig pin on ultrasonic sensor is made logic high using external trigger signal.<br/>
 2.A signal is sent from the transmitter module.<br/>
