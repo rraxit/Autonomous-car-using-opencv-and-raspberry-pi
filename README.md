@@ -39,9 +39,9 @@ The project aims to build a monocular vision using Raspberry Pi as a processing 
  6.This information is processed by the Pi. If the distance between the car and the obstacle is less than 30cm, the car stops.<br/>
  7.Wheels on the left move opposite to the wheels on the right. This helps the car to turn.<br/>
  
- ![Obstacle](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/obstacle.png) <br/>
- ![No Obstacle](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/No_obs.png)<br/>
- ![Terminal output](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/obst_ter.png)<br/>
+ ![Obstacle](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/obstacle.png)<br/>
+ ![No Obstacle](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/No_obs.png)<br/>
+ ![Terminal output](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/obs_ter.png)<br/>
  
  II] Lane Tracking:<br/>
  Working Steps:<br/>
@@ -64,9 +64,9 @@ The project aims to build a monocular vision using Raspberry Pi as a processing 
   else:<br/>
    &nbsp;&nbsp;&nbsp;&nbsp; Move straight <br/>
 9.Repeat from step 1<br/>
-![Left Turn Detection](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/left.png)<br/>
-![Rigth Turn Detection](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/right.png)<br/>
-![Go Straight](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/straight.png)<br/>
+![Left Turn Detection](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/left.png)<br/>
+![Rigth Turn Detection](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/right.png)<br/>
+![Go Straight](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/straight.png)<br/>
 
 III] Automated Parking:<br/>
 Working Steps:<br/>
@@ -82,9 +82,9 @@ Working Steps:<br/>
 8.If it gets distance >30cm for 1 sec then it has found space to park and car will stop.<br/>
 9.Then it will park in that spot.<br/>
 
-![Searching For Free Spot](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/parking1.png?raw=true)<br/>
-![Found Free Space](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/park2.png?raw=true)<br/>
-![Parked](https://github.com/ishanambike/Self-driving-Car-Using-Raspberry-Pi/blob/master/Proj_images/park3.png?raw=true)<br/>
+![Searching For Free Spot](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/parking1.png)<br/>
+![Found Free Space](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/park2.png)<br/><br/>
+![Parked](https://github.com/rraxit/Autonomous-car-using-opencv-and-raspberry-pi/blob/master/Proj_images/park3.png)<br/><br/>
 
 
 
